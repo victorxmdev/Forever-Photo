@@ -1,0 +1,11 @@
+.card, section.galeria{
+    margin: 25px auto;
+}
+
+.card{
+    padding: 0!important;
+    margin: 25px;
+    flex: none!important;
+    max-width: none!important;
+}
+

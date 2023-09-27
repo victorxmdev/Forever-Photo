@@ -1,0 +1,25 @@
+*{
+padding:0px;
+margin:0px;
+}
+
+.container{
+    width:100%;
+    height:100%;
+    background-color:#424242;
+    padding-top:15px;
+}
+.superior{
+    width:80%;
+    height:80%;
+    background-color:aliceblue;
+    margin:auto;
+    position:relative;
+}
+.campos{
+    background-color:#FFCD0D;
+    width:80%;
+    height:50px;
+    margin:auto;
+    position:relative;
+}

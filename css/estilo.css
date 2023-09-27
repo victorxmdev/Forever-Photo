@@ -1,0 +1,44 @@
+.carousel-item img{
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.car1{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.car2{
+    margin-left: 350px;
+    margin-top: -296px;
+}
+.car3{
+    margin-left: 650px;
+    margin-top: -296px;
+}
+.car4{
+    margin-left: 950px;
+    margin-top: -296px;
+}
+.car5{
+    margin-left: 1250px;
+    margin-top: -296px;
+}
+.galeria{
+    background-image: ../img/gg.jpeg;
+}
+#log{
+	background-image: img/sh.jpeg;
+}
+.planos{
+	width: 150px;
+	height: 150px;
+}
+.planos:hover{
+	-webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+}
+#cadastro{
+    width: 100%;
+    height: 1000px;
+}

@@ -1,0 +1,84 @@
+@font-face{
+    font-family: 'bebas';
+    src: url('../fonts/bebas.ttf');
+}
+
+.bebas{
+    font-family: 'bebas';
+}
+
+@font-face{
+    font-family: 'dinm';
+    src: url('../fonts/dinm.ttf');
+}
+
+.dinm{
+    font-family: 'dinm';
+}
+
+.slider{
+    font-family: 'dinm';
+}
+
+.card{
+    font-family:'dinm';
+    font-size:14px;
+}
+
+@font-face{
+    font-family: 'dinl';
+    src: url('../fonts/dinl.ttf');
+}
+
+.dinl{
+    font-family: 'dinl';
+}
+
+form{
+    font-family:'dinl';
+}
+
+.browser-default{
+    font-family: 'dinl';
+    font-size: 16px;
+}
+
+tbody{
+    font-family:'dinl';
+}
+
+
+@font-face{
+    font-family: 'dinc';
+    src: url('../fonts/dinc.otf');
+}
+
+.dinc{
+    font-family: 'dinc';
+}
+
+.nav-wrapper a{
+    font-family: 'dinc';
+    font-size: 20px;
+}
+
+.card-panel{
+    font-family:'dinc';
+}
+
+h2{
+    font-family:'dinc';
+}
+
+input{
+    font-family: 'dinc';
+    font-size: 16px;
+}
+
+.waves-eff{
+    font-family:'dinc';
+}
+
+.superior{
+    font-family:'dinc';
+}
